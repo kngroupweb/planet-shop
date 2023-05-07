@@ -24,3 +24,29 @@
 .head .container{
     margin-top: 40px;
 }
+
+.head i{
+    cursor: pointer;
+}
+
+
+.head h1{
+    font-family: Montserrat;
+    font-size: 68px;
+    font-weight: 500;
+    line-height: 83px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #156963;
+    margin-top: 122px;
+    margin-left: 210px;
+}
+
+.head p{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+}
