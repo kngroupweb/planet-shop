@@ -1,4 +1,26 @@
 *{
     padding: 0;
     margin: 0;
+    list-style: none;
+}
+
+.head a{
+    text-decoration: none;
+    font-style: Bold;
+    font-size: 14px;
+}
+
+.a{
+    color: #156963;
+}
+
+.btn{
+    background: #156963;
+    padding: 8px 20px;
+    border-radius: 0%;
+    width: 111px;
+}
+
+.head .container{
+    margin-top: 40px;
 }
